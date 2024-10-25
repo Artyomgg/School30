@@ -1,4 +1,51 @@
 .content-start-mini{
+    display: flex;
     font-size: 20px;
     color:cadetblue;
+    
+}
+
+.text1{
+    display: flex;
+    width: 100%;
+    color: gray;
+    font-size: 20px;
+    flex-wrap: wrap;
+   
+}
+.text-start-mini{
+    display: flex;
+    font-size: 20px;
+    color: darkred;
+
+}
+
+.text1>img{
+    width: 400px;
+}
+
+.block-text{
+    width: 50%;
+}
+
+.block2>h2{
+    font-size: 30px;
+}
+
+.block2>h3{
+    font-size: 25px;
+}
+
+.text2{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.block-text2{
+    width: 50%;
+    font-size: 20px;
+    color: gray;
+}
+.text2>img{
+    width: 400px;
 }
