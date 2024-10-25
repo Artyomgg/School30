@@ -21,7 +21,8 @@ h1{
     align-items: center;
     justify-content: center;
     color: red;
-    position: fixed;
+    position: sticky;
+    top:10px;
     opacity: 0.3;
 }
 
