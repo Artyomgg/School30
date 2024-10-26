@@ -40,19 +40,20 @@
         height: 50px;
     }
     .block{
-        width: 100%;
+        width: 200%;
     }
     .hr2{
-        width: 100%;
+        width: 200%;
     }
     .content-start-mini{
         font-size: 15px;
     }
     .text-start-mini{
         font-size: 20px;
+        width: 100%;
     }
     h1{
-        margin-left: 10%;
+        margin-left: 30%;
     }
     .block-text{
         width: 100%;
@@ -69,12 +70,12 @@
         height: 150px;
     }
     .text2>img{
-        width: 300px;
-        height: 200px;
+        width: 250px;
+        height: 150px;
     }
     .text1>img{
-        width: 300px;
-        height: 200px;
+        width: 250px;
+        height: 150px;
     }
 }
 
