@@ -68,5 +68,13 @@
     .block-d{
         height: 150px;
     }
+    .text2>img{
+        width: 350px;
+        height: 150px;
+    }
+    .text1>img{
+        width: 350px;
+        height: 150px;
+    }
 }
 
